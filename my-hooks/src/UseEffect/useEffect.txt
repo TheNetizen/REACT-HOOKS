@@ -1,0 +1,12 @@
+class component=
+componentdidmount()->componentdidupdate()->componentwillunmount()
+
+we write same code twice
+componentdidmount()->componentdidupdate()
+
+useEffect()->function component
+let u perform side effects in functional component
+replacement of
+componentdidmount()->componentdidupdate()->componentwillunmount()
+
+use effect renders every time the component is rendered.
