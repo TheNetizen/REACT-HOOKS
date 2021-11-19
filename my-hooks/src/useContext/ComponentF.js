@@ -1,7 +1,7 @@
 // this is too lengthy we can also do it using useContext check component E for that
 import React from 'react'
 import {userContext} from '../App'
-import {userChanel} from '../App'
+// import {userChanel} from '../App'
 function ComponentF() {
     return (
   <div>

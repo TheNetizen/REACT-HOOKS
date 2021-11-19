@@ -1,0 +1,6 @@
+//used for performance optimization
+when parent component is rerendered all the states and props and child components are rerender 
+which should be optimized in case of n no. of components (substitute of purecomponent )
+
+useCallback memoize function where ase useMemo memoize values
+memoize means storing in cache

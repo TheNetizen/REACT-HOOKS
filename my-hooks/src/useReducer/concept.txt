@@ -1,0 +1,11 @@
+useReducer is a hook used for state manage
+it is an alternative to useState
+useState is built using useReducer
+
+useReducer accepts 2 parameter reducer,initialState
+reducer(currentState,action) returns new state with pair [newState,dispatch]
+
+to have one counter and pass it in component tree we can have counter in app js (useReducer to change the state)
+and we can have useContext to pass data in component tree   GLOBAL STATE MANAGEMENT CompA-CompF  
+
+DataFetching Using useReducer() DataFetchingTwo.js
